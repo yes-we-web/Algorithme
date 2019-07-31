@@ -22,6 +22,6 @@
 
 **Réponse :** Un algorithme est une méthode ou un procédé décrit pas à pas. Ce n'est pas un problème de décision, mais                                  de méthode pour résoudre un tel problème.
 
-**Question:**
+**Question:** Qui a inventé l'algorithme ?
 
-**Réponse:**
+**Réponse:** Le mot « algorithme » vient du nom du mathématicien Al-Khwârizmî (latinisé au Moyen Âge en Algoritmi), qui, au IX e siècle écrivit le premier ouvrage systématique donnant des solutions aux équations linéaires et quadratiques.
