@@ -29,3 +29,11 @@
 **Question:** Un algorithme s'écrit-il uniquement avec un logiciel dans un langage précis ?
 
 **Réponse:** Non
+
+**Question:** En programmation, a-t-on besoin des variables pour créer un algorithme ?
+
+**Réponse:** Oui pour stocker l'information des données
+
+**Question:** Faut-il un algorithme pour demander à un utilisateur son année de naissance et lui calculer l'âge qu'il aura le 31 décembre 2030 à minuit ?
+
+**Réponse:** oui
