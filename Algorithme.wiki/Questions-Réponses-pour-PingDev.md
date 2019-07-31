@@ -25,3 +25,15 @@
 **Question:** Qui a inventé l'algorithme ?
 
 **Réponse:** Le mot « algorithme » vient du nom du mathématicien Al-Khwârizmî (latinisé au Moyen Âge en Algoritmi), qui, au IX e siècle écrivit le premier ouvrage systématique donnant des solutions aux équations linéaires et quadratiques.
+
+**Question:** Un algorithme s'écrit-il uniquement avec un logiciel dans un langage précis ?
+
+**Réponse:** Non
+
+**Question:** En programmation, a-t-on besoin des variables pour créer un algorithme ?
+
+**Réponse:** Oui pour stocker l'information des données
+
+**Question:** Faut-il un algorithme pour demander à un utilisateur son année de naissance et lui calculer l'âge qu'il aura le 31 décembre 2030 à minuit ?
+
+**Réponse:** oui
