@@ -8,20 +8,20 @@ Suite à un bug informatique, l’équipe d’étudiant en dev est tombée dans 
 
 un a _ _ _ _ _ _ _ _ _ est  aussi un a _ _ _ _ _ _ _ _ _ .
 
+Réponse : algorithme est aussi un aeghilmort
+
 
 La voix : Vous êtes sauvé pour cette fois, hahahhahaaaaaaa, maintenant allez voir CHORNOS
 
-Parti 1 : CHRONOS
+Parti 2 : CHRONOS
 - Algo de tri par insertion
 
 idée :
 - savants mathématiciens – les placer dans les époques respectives
 
-Parti 2 : CALCULATOR
+Parti 3 : CALCULATOR
 Prochaine équipe
 
-idée : 
-Remettre en place les cartes de calculs
 
-Parti 3 : 
+Parti 4 : 
 etc...
