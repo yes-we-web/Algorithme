@@ -21,3 +21,7 @@
 **Question :** Qu est ce qu'un algorithme ?
 
 **Réponse :** Un algorithme est une méthode ou un procédé décrit pas à pas. Ce n'est pas un problème de décision, mais                                  de méthode pour résoudre un tel problème.
+
+**Question:**
+
+**Réponse:**
