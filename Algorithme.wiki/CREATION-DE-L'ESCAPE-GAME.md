@@ -1,29 +1,38 @@
-#EscapeGame - NEO ALGO : 
+**#EscapeGame - NEO ALGO :** 
 
 - Suite à un bug informatique, l’équipe d’étudiant en dev est tombée dans un univers parallèle et elle s’est retrouvé aspirée par leur PC. Ils ont atterri dans monde extrêmement sombre et étrange, parsemé de lumières fluorescentes décrivant des symboles, chiffres et lettres. Le groupe se retrouve bloqué dans ce lieu déroutant et stressant. C'est alors qu'une voix stridente venue d’ailleurs leur annonce en riant :
 
-“hahahahahahahaaaaaaa vous êtes bloqué, chercher les clefs pour en sortir, allez cherchez le LOGIN ou s'en est fini pour vous !!! hahahahhhhaaaaaaa !!!!”
+_“Hahahahahahahaaaaaaa vous êtes bloqué, chercher les clefs pour en sortir, allez cherchez le LOGIN ou s'en est fini pour vous !!! hahahahhhhaaaaaaa !!!!”_
 
 
-* Parti 1 : LOGIN
+- **Partie 1 : LOGIN**
 
-un a _ _ _ _ _ _ _ _ _ est  aussi un a _ _ _ _ _ _ _ _ _ .
+  un a _ _ _ _ _ _ _ _ _ est  aussi un a _ _ _ _ _ _ _ _ _ .
 
-Réponse : algorithme est aussi un aeghilmort
-
-
-La voix : Vous êtes sauvé pour cette fois, hahahhahaaaaaaa, maintenant allez voir CHRONOS
+  **Réponse : algorithme est aussi un aeghilmort**
 
 
-Parti 2 : CHRONOS
-- Algo de tri par insertion
-
-idée :
-- savants mathématiciens – les placer dans les époques respectives
-
-Parti 3 : CALCULATOR
-Prochaine équipe
+_La voix : Vous êtes sauvé pour cette fois, hahahhahaaaaaaa, maintenant allez voir CHRONOS_
 
 
-Parti 4 : 
-etc...
+- **Partie 2 : CHRONOS**
+  
+  Algo de tri par insertion
+
+**Idées :**
+
+- Savants mathématiciens – Les placer dans les époques respectives
+
+  **Réponse : Thalès (VIIéme avant J-C); Archimède (IIIème avant J-C); Pythagore (Vème siècle avant J-C); 
+            **Isaac Newton (XVIIème) siècle); Sophie Germain (XVIIIème sicèle)**
+            **Al-Khawarizmi (VIIIème siècle avant J-C); Grigori Perelman (XXème siècle); Galilée (XVIème siècle)
+            **Emmy Noether (XIXème siècle); Hypatie (Vème siècle avant J-C)**
+
+- **Partie 3 : CALCULATOR**
+
+  Prochaine équipe
+
+
+- **Partie 4 :** 
+  
+  etc...
