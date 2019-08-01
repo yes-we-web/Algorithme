@@ -24,9 +24,9 @@ _La voix : Vous êtes sauvé pour cette fois, hahahhahaaaaaaa, maintenant allez 
 - Savants mathématiciens – Les placer dans les époques respectives
 
   **Réponse : Thalès (VIIéme avant J-C); Archimède (IIIème avant J-C); Pythagore (Vème siècle avant J-C); 
-            **Isaac Newton (XVIIème) siècle); Sophie Germain (XVIIIème sicèle)**
-            **Al-Khawarizmi (VIIIème siècle avant J-C); Grigori Perelman (XXème siècle); Galilée (XVIème siècle)
-            **Emmy Noether (XIXème siècle); Hypatie (Vème siècle avant J-C)**
+              **Isaac Newton (XVIIème) siècle); Sophie Germain (XVIIIème sicèle)
+              **Al-Khawarizmi (VIIIème siècle avant J-C); Grigori Perelman (XXème siècle); Galilée (XVIème siècle)
+              **Emmy Noether (XIXème siècle); Hypatie (Vème siècle avant J-C)
 
 - **Partie 3 : CALCULATOR**
 
