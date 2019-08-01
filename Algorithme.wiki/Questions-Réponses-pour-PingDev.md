@@ -39,6 +39,7 @@
 **Réponse:** oui
 
 **Question :** Comment se définit la complexité en temps d'un algorithme calculant un résultat à partir d'un paramètre fourni ?
+
 **Réponse :** C'est l'ordre de grandeur du nombre d'opérations de base effectuées lors de l'exécution de l'algorithme en fonction de la taille de son paramètre d'entrée.
 
 **Question :** Comment peut-on trier par ordre alphabétique un fichier de 1000 noms ?
