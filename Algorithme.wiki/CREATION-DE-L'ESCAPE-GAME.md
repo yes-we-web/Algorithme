@@ -12,27 +12,35 @@ _“Hahahahahahahaaaaaaa vous êtes bloqué, chercher les clefs pour en sortir, 
   **Réponse : algorithme est aussi un aeghilmort**
 
 
-_La voix : Vous êtes sauvé pour cette fois, hahahhahaaaaaaa, maintenant allez voir CHRONOS_
+_La voix : "Vous êtes sauvé pour cette fois, hahahhahaaaaaaa, maintenant allez voir CHRONOS"
 
 
 - **Partie 2 : CHRONOS**
   
   Algo de tri par insertion
 
-**Idées :**
+**Idées :
 
-- Savants mathématiciens – Les placer dans les époques respectives
+- Savants mathématiciens – Vous avez des images de savants célèbres, le but étant de les classer.
 
-  **Réponse : Thalès (VIIéme avant J-C); Archimède (IIIème avant J-C); Pythagore (Vème siècle avant J-C); 
-              **Isaac Newton (XVIIème) siècle); Sophie Germain (XVIIIème sicèle)
-              **Al-Khawarizmi (VIIIème siècle avant J-C); Grigori Perelman (XXème siècle); Galilée (XVIème siècle)
-              **Emmy Noether (XIXème siècle); Hypatie (Vème siècle avant J-C)
+  Réponse : Il fallait les classer par ordre chronologiques :
+  
+            Thalès (VIIéme avant J-C); Archimède (IIIème avant J-C); Pythagore (Vème siècle avant J-C); 
+            Isaac Newton (XVIIème) siècle); Sophie Germain (XVIIIème sicèle)
+            Al-Khawarizmi (VIIIème siècle avant J-C); Grigori Perelman (XXème siècle); Galilée (XVIème siècle)
+            Emmy Noether (XIXème siècle); Hypatie (Vème siècle avant J-C)
+
+_La voix : "Vous avez réussi dans cette épreuve, mais vous ne m'aurez pas deux fois ! Ça va se compliquer pour vous !!!"
+
 
 - **Partie 3 : CALCULATOR**
 
   Prochaine équipe
 
+_La voix : ""_
 
 - **Partie 4 :** 
   
   etc...
+
+_La voix : ""_
