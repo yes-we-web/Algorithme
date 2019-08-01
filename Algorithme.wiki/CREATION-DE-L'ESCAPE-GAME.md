@@ -11,7 +11,7 @@ un a _ _ _ _ _ _ _ _ _ est  aussi un a _ _ _ _ _ _ _ _ _ .
 Réponse : algorithme est aussi un aeghilmort
 
 
-La voix : Vous êtes sauvé pour cette fois, hahahhahaaaaaaa, maintenant allez voir CHORNOS
+La voix : Vous êtes sauvé pour cette fois, hahahhahaaaaaaa, maintenant allez voir CHRONOS
 
 Parti 2 : CHRONOS
 - Algo de tri par insertion
