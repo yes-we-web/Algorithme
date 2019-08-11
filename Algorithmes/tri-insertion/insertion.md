@@ -16,10 +16,10 @@ Le principe du tri par insertion est de classer par ordre décroissant (de la pl
 Chercher la plus petite valeur et la placer au début du tableau, puis la plus petite valeur dans les valeurs restante et la placer à la  deuxieme position et ainsi de suite.
 
 
-![](tri_insertion4.png)
+![](images/tri_insertion4.png)
 
 
 Une fois le tri par insertion terminé nous retrouvons donc toutes nos valeurs classé de la plus petite a la plus grande comme voulue.
 
 
-![](courbe_insertion.gif)
+![](images/courbe_insertion.gif)
