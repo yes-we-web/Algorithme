@@ -11,12 +11,12 @@ Le tas [les indeces] peut être représenté comme un arbre binaire, il peut êt
 ![Exemple en image](http://sdz.tdct.org/sdz/medias/uploads.siteduzero.com_files_286001_287000_286613.jpg)
 
 
-Continué le processus pour que tous les indices soient présents dans l'arbre.
+Continué le processus pour que tous les veleurs soient présents dans l'arbre.
 les indices se comparent de deux manières différentes soit par Tas-Min le principe est de classe les indices par ordre croissant ou par Tas-Max à l'inverse classement décroissant.
 
 ### nous allons procéder par Tas-Max ;
 
-Pour commencer comparer le premier parent (gauche) de l'avant-dernière ligne avec son premier enfant (gauche), le plus grand des deux devient parent et l'autre enfant (gauche).
+Pour commencer comparer le premier parent (gauche) de l'avant-dernière ligne avec son premier enfant (gauche) de la dernière ligne, le plus grand des deux devient parent et l'autre enfant (gauche).
 Ensuite compare le nouveau parent avec le deuxième enfant (droite), le plus grand des deux remontes et devient parent. 
 puis faite le même processus pour le parent et enfants de droit s'il y a.
 Une fois les dernières lignes faite, refaire le processus avec les nouveaux parents et ses enfants des autres lignes en remontent de gauche à droite et ainsi de suite pour que le plus grand nombre soit à la tête de l'arbre (parente racine).
@@ -30,7 +30,7 @@ Le plus grand nombre est en tête de l'arbre, on peut le retire et dire qu'il es
 
 
 
-Source : [Wikipédia](https://fr.wikipedia.org/wiki/Tri_par_tas)
+Source : [Wikipédia](https://fr.wikipedia.org/wiki/Tri_par_tas) - 
          [Turoriel](http://sdz.tdct.org/sdz/le-tri-par-tas.html)
 
 
