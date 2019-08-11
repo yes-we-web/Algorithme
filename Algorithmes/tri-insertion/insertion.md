@@ -25,4 +25,6 @@ Une fois le tri par insertion terminé nous retrouvons donc toutes nos valeurs c
 ![](images/courbe_insertion.gif)
 
                                                                         
-                                                                        source principale:Wikipédia
+                                                                
+                                                                
+                                                                source principale:https://fr.wikipedia.org/wiki/Tri_par_insertion
