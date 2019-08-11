@@ -8,8 +8,7 @@ Le tas [les indeces] peut être représenté comme un arbre binaire, il peut êt
 
 ### Exemple
 
-![Exemple en image]
-(file:///home/gyumao/Sites/Promo/Algorithme/Algorithmes/HeapSort-(Tri-par-Tas)/Images/exemple.jpg)
+![Exemple en image](http://sdz.tdct.org/sdz/medias/uploads.siteduzero.com_files_286001_287000_286613.jpg)
 
 
 Continué le processus pour que tous les indices soient présents dans l'arbre.
@@ -27,16 +26,12 @@ Le plus grand nombre est en tête de l'arbre, on peut le retire et dire qu'il es
 
 
 ### Exemple : Tas-Max
-1.
-![Exemple de tas-max]
-(file:///home/gyumao/Sites/Promo/Algorithme/Algorithmes/HeapSort-(Tri-par-Tas)/Images/Heap%20Sort%201.gif)
-
-2.
-![Exemple de tas-max]
-file:///home/gyumao/Sites/Promo/Algorithme/Algorithmes/HeapSort-(Tri-par-Tas)/Images/Heap%20Sort.gif
+![Exemple de tas-max](https://upload.wikimedia.org/wikipedia/commons/f/fe/Heap_sort_example.gif)
 
 
 
+Source : [Wikipédia](https://fr.wikipedia.org/wiki/Tri_par_tas)
+         [Turoriel](http://sdz.tdct.org/sdz/le-tri-par-tas.html)
 
 
 
