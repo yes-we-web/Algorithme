@@ -1,4 +1,4 @@
-#Tri par selection (selection sort) :
+# Tri par selection (selection sort) :
 
 ## Présentation du Tri par selection : 
 
