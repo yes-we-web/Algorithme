@@ -4,14 +4,14 @@ Le tri par tas (Heapsort) est un algorithme de tri très performant même s’il
 On peut définir deux sortes de tas binaires : les tas min et les tas max.
 * Tas-Min : chaque élément est supérieur à son parent.
 * Tas-Max : chaque élément est inférieur à son parent.
-Le tas [les indeces] peut être représenté comme un arbre binaire, il peut être stocké de façon très simple dans un tableau. Le premier élément est la racine, le deuxième et le troisième sont les deux descendants du premier élément. Le premier élément dit (parent), le deuxième dit (enfant de gauche), et le troisième dit (enfant de droite), toujours procède de gauche vers la droite en descendant par ligne. 
+Le tas [les veleurs] peut être représenté comme un arbre binaire, il peut être stocké de façon très simple dans un tableau. Le premier élément est la racine, le deuxième et le troisième sont les deux descendants du premier élément. Le premier élément dit (parent), le deuxième dit (enfant de gauche), et le troisième dit (enfant de droite), toujours procède de gauche vers la droite en descendant par ligne. 
 
 ### Exemple
 
 ![Exemple en image](http://sdz.tdct.org/sdz/medias/uploads.siteduzero.com_files_286001_287000_286613.jpg)
 
 
-Continué le processus pour que tous les veleurs soient présents dans l'arbre.
+Continué le processus pour que tous les veleurs soient présents dans l'arbre, puis deviennent des indices de comparaisons.
 les indices se comparent de deux manières différentes soit par Tas-Min le principe est de classe les indices par ordre croissant ou par Tas-Max à l'inverse classement décroissant.
 
 ### nous allons procéder par Tas-Max ;
