@@ -4,6 +4,7 @@ Le tri par tas (Heapsort) est un algorithme de tri très performant même s’il
 On peut définir deux sortes de tas binaires : les tas min et les tas max.
 * Tas-Min : chaque élément est supérieur à son parent.
 * Tas-Max : chaque élément est inférieur à son parent.
+
 Le tas [les valeurs] peut être représenté comme un arbre binaire, il peut être stocké de façon très simple dans un tableau. Le premier élément est la racine, le deuxième et le troisième sont les deux descendants du premier élément. Le premier élément dit (parent), le deuxième dit (enfant de gauche), et le troisième dit (enfant de droite), toujours procède de gauche vers la droite en descendant par ligne. 
 
 ### Exemple
