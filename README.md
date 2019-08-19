@@ -2,7 +2,10 @@
 
 Bienvenue dans un monde de logique et de tri, toi qui aime trier des trucs et que tout soit bien rangé, tu vas te plaire ici !
 
-Tu trouveras une liste des algorithmes que nous avons vus ensemble à la promo Yes-We-Web, avec une description, des images, et le tout en français, parce qu'on veut pas trop réfléchir, en tant que feignasses, il est important d'économiser les neurones.
+Tu trouveras une liste des algorithmes que nous avons vus ensemble à la promo Yes-We-Web, 
+-> avec une description, des images, et le tout en français !
+
+parce qu'on veut pas trop réfléchir, en tant que feignasses, il est important d'économiser les neurones. :) :) :)
 
 
 
