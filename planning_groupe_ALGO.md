@@ -1,19 +1,14 @@
-Bonjour à tous  :wave: .
-On espère que vous allez bien ? :bangbang:
 
-
-Pour vous permettre de comprendre le
 # **FONCTIONNEMENT DU GROUPE ALGO CETTE SEMAINE :**
 
-et aussi de suivre notre travail de cette semaine, voici notre "planche de travail"
-(on reste à votre disposition si besoin).
+
 
 
 
 <!-- commantaires à propos de la gestion du groupe cette semaine-->
 _____________________________________________________________
 
-# **FONCTIONNEMENT DU GROUPE ALGO CETTE SEMAINE :**
+# **GROUPE ALGO CETTE SEMAINE :**
 
 **Personnes du groupe:** 
 -Anaïs
