@@ -2,7 +2,7 @@
 
 ## Présentation du Tri par selection : 
 
-Le principe du tri par sélection est d'aller chercher le plus petit élément du tableau pour le mettre en premier 
+Le principe du tri par sélection est d'aller chercher le plus petit élément du tableau pour le mettre en premier.
 
 (il sera l'index 0) puis, partir de l'index 1 (la seconde données du tableau) continuer sur sa droite et aller chercher l'élément plus petit que lui.  
 On compare toujours en ce demandant : "est-ce que l'index de gauche et plus petit que l'index de droite ?"

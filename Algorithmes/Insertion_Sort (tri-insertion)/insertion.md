@@ -3,11 +3,11 @@
 ## Présentaion:
 
 
-Le tri par insertion est un algorithme de tri dit classique , vous l’utiliser peut être même sans le savoir par exemple pendant une partie de carte la plus part des gens font un tri par insertion sans même sans rendre compte , et oui en triant vos carte dans un cetrain ordre (de la plus petite à la plus grande valeur par exemple),on “insere” les carte les unes entre les autres afin d’obtenir un ordre voulue .
+Le tri par insertion est un algorithme de tri dit "classique" , vous l’utilisez peut être même sans le savoir: par exemple pendant une partie de carte la plus part des gens font un tri par insertion sans même sans rendre compte , et oui en triant vos cartes dans un cetrain ordre (de la plus petite à la plus grande valeur par exemple),on “insere” les cartes les unes entre les autres afin d’obtenir un ordre voulu .
 
 ## Principe:
 
-En programation informatique le tri par insertion c’est un algorithme de tri dit classique , on l’uttilise sous forme de tableau :
+En programmation informatique: le tri par insertion: on l’uttilise sous forme de tableau.
 
 
 
