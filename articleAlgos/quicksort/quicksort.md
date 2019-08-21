@@ -1,7 +1,5 @@
 # Tri rapide (quicksort ou Qsort)
 
-[quicksort ou qsort]  (https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Partition_example.svg/800px-Partition_example.svg.png)
-
 
 
 ## Présentation du Tri rapide : 
