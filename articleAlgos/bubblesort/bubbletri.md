@@ -32,4 +32,4 @@ Par exemple :
 
 ![](bubblesort.gif)
 
-Ce gif vous aideras à comprendre plus facilement le mouvement de tri. 
+Ce gif vous aidera à comprendre plus facilement le mouvement de tri. 
