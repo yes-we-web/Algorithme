@@ -31,7 +31,7 @@ Par contre, son gros point noir:
 
 
 
-## comment cela fonctionne (comment bien comprendre): 
+## comment cela fonctionne (bien comprendre): 
 
 En théorie ça donne donc:
 -> La cible des partitions est, étant donné: un tableau et un élément x du tableau: comme pivot (la valeur donc), 
@@ -61,7 +61,7 @@ procédure à réaliser avec des cartes:
 
 _________________________________________________________________________________
 
-## en savoir plus à ce sujet : 
+## en savoir plus: 
 
 Cet algo a été inventé par C.A.R. Hoare en 1961.
 
