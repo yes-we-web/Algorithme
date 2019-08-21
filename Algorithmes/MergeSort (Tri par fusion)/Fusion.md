@@ -15,4 +15,4 @@
 
 > La première étapes etant passé nous allons ensuite dans le vif du sujet c'est à dire la **FUSION** de nos tableaux deux par deux tout en les triant en ordre croissant pour à la fin avoir un seul et même tableau trié en ordre croissant.
 
-
+![](images/Mergesort-algorithme.png)
