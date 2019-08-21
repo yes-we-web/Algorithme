@@ -7,5 +7,7 @@ Le tri par fusion est un algorithme de tri par comparaison stable. Il fonctionne
 
 
 
+##Principe:
+
 
 
