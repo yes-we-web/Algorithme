@@ -1,19 +1,19 @@
 # Algorithmes
 
-Bienvenue dans un monde de logique et de tri, toi qui aime trier des trucs et que tout soit bien rangé, tu vas te plaire ici !
+Bienvenue dans un monde de logique et de tri, toi qui aimes trier des trucs et que tout soit bien rangé, tu vas te plaire ici !
 
-Tu trouveras une liste des algorithmes que nous avons vus ensemble à la promo Yes-We-Web, 
+Tu trouveras une liste des algorithmes que nous avons vue ensemble à la promo Yes-We-Web, 
 -> avec une description, des images, et le tout en français !
 
-parce qu'on veut pas trop réfléchir, en tant que feignasses, il est important d'économiser les neurones. :) :) :)
+parce qu'on ne veut pas trop réfléchir, en tant que feignasses, il est important d'économiser les neurones. :) :) :)
 
 
 
 **Dans ce repo, tu trouveras plusieurs dossiers**
 
-En effet, il y'a plusieurs choses ici, cette branche est encore en construction, tu devrais te focaliser uniquement sur le dossier Algorithmes, tu y trouvera les algos, donc si tu as un trou de mémoire, je t'invite à revenir ici pour te remémorer les algorithmes que tu aurais pu oublier.
+En effet, il y a plusieurs choses ici, cette branche est encore en construction, tu devrais te focaliser uniquement sur le dossier Algorithmes, tu y trouveras les algos, donc si tu as un trou de mémoire, je t'invite à revenir ici pour te remémorer les algorithmes que tu aurais pu oublier.
 
-Si notre grand manitou prend autant de temps pour nous les faire connaître, c'est qu'il y'a une raison, donc apprends les algos, c'est cool, et on se sent intelligent.
+Si notre grand manitou prend autant de temps pour nous les faire connaître, c'est qu'il y a une raison, donc apprend les algos, c'est cool, et on se sent intelligent.
 
 
 
