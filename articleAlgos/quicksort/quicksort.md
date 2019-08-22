@@ -90,44 +90,49 @@ Bon tiens commençons à droite par exemple. On compare avec la carte la plus à
 
                                     [[5]]- 3 - 6 - 7 - 10 - 9 - 4 - 1 - 2 - __8__
 
-On passe à la carte suivante, la plus à l'extrême de 8 : la carte 3 est-elle la plus grande ? __NON__ donc on ne la déplace pas, elle reste à sa place et on passe à la carte suivante (on oublie pas, toujours la plus à l'extrême de la carte pivot et non vérifée). 
+On passe à la carte suivante, la plus à l'extrême de 8 : __la carte 3 est-elle la plus grande ? __NON__ donc on ne la déplace pas, elle reste à sa place et on passe à la carte suivante (on oublie pas, toujours la plus à l'extrême de la carte pivot et non vérifée). 
                                     [5]- [[3]]- 6 - 7 - 10 - 9 - 4 - 1 - 2 - __8__
 
-La carte 6 est-elle plus grande que la carte 8 ? __NON__ ! Alors pas de changement, elle reste à sa place.Et on passe à la suivante.
+__La carte 6 est-elle plus grande que la carte 8 ? __NON__ ! Alors pas de changement, elle reste à sa place.Et on passe à la suivante.
 
                                     [5-3] - [[6]] - 7 - 10 - 9 - 4 - 1 - 2 - __8__
 
-La carte 7 est-elle plus grande que la carte 8 ? __NON__ ! 
+__La carte 7 est-elle plus grande que la carte 8 ? __NON__ ! 
 
                                     [5-3-6] - [[7]] - 10 - 9 - 4 - 1 - 2 - __8__
                                     
-La carte 10 est-elle plus grande que la carte 8 ? Oui donc on permutte. 
+__La carte 10 est-elle plus grande que la carte 8 ?__ Oui donc on permutte. 
 
                                     [5-3-6-7] - [[10]] - 9 - 4 - 1 - 2 - __8__
 
-5 - 3 - 6 - 7 - 8 - 9 - 4 - 1 - 2 - 10
-Et on change de sens : la carte, 
-3 est-il plus grande que la carte 8 ? Non. on ne bouge pas ici encore.
-La carte 9 est-elle plus grande que 8 ? Oui ! Alors on les permutte. 8 prend donc la place de la carte 9. les cartes à gauche ayant été vérifiée, nous allons donc vérifier celle à droite. on commence toujours par la carte la plus à l'extrême de la carte pivot. 
-5 - 3 - 8 - 7 - 10 - 9 - 4 - 1 - 2 - 6
-Cette fois-ci on se pose la question suivante : 6 est-il plus petit que 8 ? Si oui les deux cartes permuttent autrement elles restent à leur place. Ici c'est donc oui donc on swape ! 
-5 - 3 - 6 - 7 - 10 - 9 - 4 - 1 - 2 - 8
-Les cartes 5 - 3 - 6  ayant été vérifée, on prend la carte la plus à gauche non vérifé, c'est donc la 7. 
-Ayant changé le sens de vérfication on se pause la question inverse : la carte 7 est-elle plus petite que la carte 8 ? Oui ! Pas bouger. 
-La carte 10 est-elle plus petite que la carte 8 ? Non ! Donc on swape ! 
-5 - 3 - 6 - 7 - 8 - 9 - 4 - 1 - 2 - 10.
-Changement de sens : la carte 2 est-elle plus grande la carte 8 ? Non, on change.
-5 - 3 - 6 - 7 - 2 - 9 - 4 - 1 - 8 - 10.
-Changement de sens : [verification déjà faite des carte 5 - 3 - 6 - 7 - 2, vous suivez toujours ? Donc on commence à la carte la l'extrême de 8 qui est donc 9] la carte 9 est-elle plus petite que la carte 8 ? Non, donc on change.
-5 - 3 - 6 - 7 - 2 - 8 - 4 - 1 - 9 - 10.
-Changement de sens : la carte la plus à l'extrême = 1. 
-La carte 1 est-elle plus grande que la carte 8 ? Non ! 
-Hop on swape (?) ! 
-5 - 3 - 6 - 7 - 2 - 1 - 4 - 8 - 9 - 10.
+                                    [5 - 3 - 6 - 7]- __8__- 9 - 4 - 1 - 2 - [10]
+
+
+Et on change de sens : __la carte, 2 est-elle plus petite que que la carte 8 ?__ Oui donc swape et on passe à la question suivante ! 
+
+                                    [5 - 3 - 6 - 7]- __8__- 9 - 4 - 1 - [[2]] - [10]
+                                    [5 - 3 - 6 - 7- 2 - 1] __8__ - 4 - 1 - [9 - 10]
+
+__La carte 1 est-il plus petite que la carte 8 ? Oui.__ on change les places. Et changement de sens...
+
+                                    [5 - 3 - 6 - 7]- __8__- 9 - 4 - [[1]] - [2 - 10]
+                                    [5 - 3 - 6 - 7- 2 - 1] - 4 - __8__ - [2 - 10]
+
+__La carte 9 est-elle plus grande que la carte 8 ? Oui !__ Alors on les permutte. 8 prend donc la place de la carte 9. Hop swape ! 
+
+                                    [5 - 3 - 6 - 7- 1]- [[9]]- 4 - __8__ - [2 - 10]
+                                    [5 - 3 - 6 - 7- 1]- 8 - 4 -  [9 - 2 - 10]
+
+
 Il reste plus que la carte 4 à trier car nous avons à gauche toutes les cartes plus petites que 8 et droite celle plus grande. 
-On se pose donc la question : la carte 4 est-elle plus grande que la carte 8 ? La réponse étant non on ne permutte. Les cartes ayant toutes été vérifiées, on peut conclure que la carte 8 à trouver sa place définitive. Elle est donc rangée et c'est donc la dernière carte avec laquelle elle a permuté qui prend la place de la carte pivot, c'est donc ici la carte 4.
+On se pose donc la question : la carte 4 est-elle plus grande que la carte 8 ? La réponse étant non on ne permutte. Les cartes ayant toutes été vérifiées, on peut conclure que la carte 8 à trouver sa place définitive. Elle est donc rangée et c'est donc la dernière carte avec laquelle elle a permuté qui prend la place de la carte pivot, c'est donc ici __la carte 4.__
+
+                                    [5 - 3 - 6 - 7- 1 - ]- __8__- [[4]]- [9 - 10]
+                                    [5 - 3 - 6 - 7- 1 - 4]- __8__- [9 - 10]
+                                    5 - 3 - 6 - 7- 1 - __4__ [8]- 9 - 10
 
 Et on recommence les mêmes procédures jusqu'à ce que chaque carte trouve sa place définitive. 
 
+En espérant que cette algo n'est plus un casse-tête pour vous.
 
 
