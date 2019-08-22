@@ -82,11 +82,29 @@ Prenons une suite de cartes désordonnées :
 
                                     5 - 3 - 6 - 7 - 10 - 9 - 4 - 1 - 2 - 8
 
-Nous choisissons une carte au hasard, par exemple la carte 8. Le but nous l'avons dit : placer celle-ci à sa place définitive en permuttant toutes les cartes de sorte que toutes les cartes inférieures à la carte pivot soient à gauche et celles supérieures à droite. La carte 8 restera donc la carte pivot jusqu'à ce qu'elle prenne sa place.
-5 - 3 - 6 - 7 - 10 - 9 - 4 - 1 - 2 - 8
-Bon tiens commençons à droite par exemple. On se pose la question suivante : 5 est-il plus grande que 8 ? Si la réponse est non on ne bouge pas la carte si au contraire la réponse est oui, nous échangeons la place de ces deux cartes. La carte 5 ne bougeant pas ici (réponse : NON), donc nous passons à la carte suivante. 
-La carte 6 est-elle plus grande que 8 ? Non. On passe à la acarte suivante. La carte 7 est-elle plus grande que 8 ? Non, on passe à la carte suivante. 
+Nous choisissons une carte au hasard, par exemple la carte 8. Le but nous l'avons dit : placer celle-ci à sa place définitive en permuttant toutes les cartes de sorte que toutes les cartes inférieures à la carte pivot soient à gauche et celles supérieures à droite. La __carte 8__ restera donc la carte __pivot jusqu'à ce qu'elle prenne sa place.__
+
+                                    5 - 3 - 6 - 7 - 10 - 9 - 4 - 1 - 2 - __8__
+
+Bon tiens commençons à droite par exemple. On compare avec la carte la plus à l'extrême de 8, qui est la carte 5 et on se pose la question suivante : __la carte 5 est-elle plus grande que 8 ?__ Si la réponse est non on ne bouge pas la carte, si au contraire la réponse est oui, nous échangeons la place de ces deux cartes. La carte 5 ne bougeant pas ici (réponse : __NON__), donc nous passons à la carte suivante. 
+
+                                    [[5]]- 3 - 6 - 7 - 10 - 9 - 4 - 1 - 2 - __8__
+
+On passe à la carte suivante, la plus à l'extrême de 8 : la carte 3 est-elle la plus grande ? __NON__ donc on ne la déplace pas, elle reste à sa place et on passe à la carte suivante (on oublie pas, toujours la plus à l'extrême de la carte pivot et non vérifée). 
+                                    [5]- [[3]]- 6 - 7 - 10 - 9 - 4 - 1 - 2 - __8__
+
+La carte 6 est-elle plus grande que la carte 8 ? __NON__ ! Alors pas de changement, elle reste à sa place.Et on passe à la suivante.
+
+                                    [5-3] - [[6]] - 7 - 10 - 9 - 4 - 1 - 2 - __8__
+
+La carte 7 est-elle plus grande que la carte 8 ? __NON__ ! 
+
+                                    [5-3-6] - [[7]] - 10 - 9 - 4 - 1 - 2 - __8__
+                                    
 La carte 10 est-elle plus grande que la carte 8 ? Oui donc on permutte. 
+
+                                    [5-3-6-7] - [[10]] - 9 - 4 - 1 - 2 - __8__
+
 5 - 3 - 6 - 7 - 8 - 9 - 4 - 1 - 2 - 10
 Et on change de sens : la carte, 
 3 est-il plus grande que la carte 8 ? Non. on ne bouge pas ici encore.
