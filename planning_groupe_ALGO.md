@@ -31,26 +31,25 @@ _____________________________________________________________
 # **rédaction de l'article à propos du tri MERGE :**
 -> qui: MICKAEL
 
-# **rédaction de l'article à propos du tri (de mardi) :**
+# **rédaction de l'article à propos du tri QUICKSORT:**
 -> qui: ANAIS ET AMANDINE
 
-# **rédaction de l'article à propos du tri (de mercredi):**
--> qui: RABAH ET AMANDINE
+# **Correction et ajouts d'éléments d'articles:**
+-> qui: RABAH
 
 # **rédaction des questions pour ping'dev:**
 -> qui: TOUTE L'EQUIPE
 
-# **rédaction des questions pour twitter:**
+# **réfléchir à des tweets pour twitter:**
 -> qui: TOUTE L'EQUIPE
 
 # ** organisation de l'équipe, gestion groupe :**
 -> qui: AMANDINE -> voir fichier planning-groupe
--> gestion du trello -> Anaïs (copier coller du fichier planning-groupe)
+-> assistante Anaïs -> gestion Trello
 
 # **envoi du travail de groupe sur slack:**
 -> prévu pour jeudi soir
--> qui: BENJAMIN 
-(sinon au cas où AMANDINE)
+
 
 
 
