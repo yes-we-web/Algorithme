@@ -26,7 +26,7 @@ _____________
 
 Par contre, son gros point noir:
 - Un gros désavantage théorique (eh oui comprendre son fonctionnement est assez hard), 
-- Il existe de nombreuses versions de quickSort qui sélectionnent pivot de différentes manières.
+- Il existe de nombreuses versions de quickSort et qui sélectionnent pivot de différentes manières.
 
 
 
@@ -74,6 +74,3 @@ Source : [GEEKFORGEEKS](https://www.youtube.com/watch?v=PgBzjlCcFvc) -
 un exemple du Tri rapide avec un gif : ![](images/xxxxxxx.gif)
 
 _________________________________________________________________________________
-
-## en pratique, voici un exemple : 
-
