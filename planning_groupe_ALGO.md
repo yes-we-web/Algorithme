@@ -53,5 +53,20 @@ _____________________________________________________________
 
 
 
+_____________________________________________________________________
 
+<!-- commantaires à propos de la gestion du groupe cette semaine-->
+_____________________________________________________________
+
+# **GROUPE ALGO LA SEMAINE : 26/08/2019 - 30/08/2019**
+
+**Personnes du groupe:** 
+- Samy
+- François
+- Steven
+- Antoine
+- Anthony
+
+# **Chef de projet :**
+-> qui: ANTHONY
 
