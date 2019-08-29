@@ -1,4 +1,4 @@
-#**Pseudocode de Bubble Sort :**
+# **Pseudocode de Bubble Sort :**
 
 On commence à l'index 0
 
