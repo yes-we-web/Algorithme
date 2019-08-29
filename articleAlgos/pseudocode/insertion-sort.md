@@ -1,4 +1,4 @@
-#**Pseudocode de Insertion Sort :**
+# **Pseudocode de Insertion Sort :**
 
 On commence à l'index 0
 
