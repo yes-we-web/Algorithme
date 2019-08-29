@@ -55,6 +55,15 @@ Réponse: une structure de données permettant de représenter de façon compact
 **Question :** Qu'appelle-t-on machine de Turing universelle ?
 Réponse: un modèle de calcul inventé par Turing.
   
+  -_-
+**Question :** Quel utilité a le `Pseudo Code` pour un développeur ?
+*Réponse:* Permet d'être structuré dans la construction de son codage.
+
+**Question :** Quel est l'acronyme du `Pseudo Code` ?
+*Réponse:* LDA ( Langage de Description d'Algorithmes ).
+
+**Question :** Quesque le Pseudo Code ?
+*Réponse:* Une façons d'écrir un algorithme en language gramatical. 
 
 
 :heavy_exclamation_mark:  voilà, amusez-vous bien !  
@@ -65,3 +74,5 @@ Réponse: un modèle de calcul inventé par Turing.
 -> Rabah
 -> Benjamin
 -> Amandine 
+
+-> Anthony
